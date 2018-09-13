@@ -1,9 +1,13 @@
 
-#TOPICS
+# TOPICS
 > REACT
+
 > REDUX
+
 > REACT-REDUX
+
 > REDUX-SAGA
+
 > RESELECT
 
 
